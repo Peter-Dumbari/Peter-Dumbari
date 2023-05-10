@@ -56,7 +56,7 @@
  
 ### :link: &nbsp;Connect with me:
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/peter-kinz-7aa419235/)/)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/peter-kinz-7aa419235/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](https://dummytwiz@gmail.com)
 [![Facebook](https://img.shields.io/badge/-Facebook-c13584?style=flat&labelColor=c13584&logo=facebook&logoColor=white)](https://www.facebook.com/lazkidypee)
 [![CodePen](https://img.shields.io/badge/-CodePen-black?style=flat&logo=CodePen&logoColor=white)](https:)
