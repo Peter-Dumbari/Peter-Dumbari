@@ -1,4 +1,10 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=900&size=24&duration=3000&pause=840&color=F8F8F8FF&background=000000FF&vCenter=true&width=1000&height=83&lines=Hello%2C+I'm+Peter+Dumbari;a+passionate+Software+Engineer+and+web+Developer;Interested+in+learning+new+technologies+in+tech)](https://git.io/typing-svg)
+<h3 align="center">
+  Welcome to Peter Dumbari's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+<p align="center">
+  <a href="https://github.com/Peter-Dumbari"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Peter+Dumbari;Also+known+as+LIFESOFT;I+build+Mobile+and+Web+Apps;using+Javascript+HTML+SASS+Python;Node.JS+ReactJS;Once+again+Welcome🤝"></a>
+</p>
 ----------------------------------------------------------------------------------------------------------------------------
 - <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
 - 🌱 I’m a coding and entrepreneurial enthusiast
