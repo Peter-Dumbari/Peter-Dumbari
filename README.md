@@ -4,8 +4,8 @@
 - 🌱 I’m a coding and entrepreneurial enthusiast
 - 💞️ I’m looking to collaborate on diffrent programming languages to further up my skills
 - 📫 How to reach me check below  👇
-- 🔭 I’m currently working on **C, C++, Python, HTM, CSS and JavaScript, and other different technologies including my technical interview preperations**
- - 🌱 I’m also learning **UI/UX design, front-end development in React,  Ruby and sharpening my Java skills**
+- 🔭 I’m currently working on **Python, HTML, CSS and JavaScript, and other different technologies including my technical interview preperations**
+ - 🌱 I’m also learning **UI/UX design, front-end development in React,**
  - ✨ Fun fact: I love body building
  
 <p align="center">
@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Coding Expetise-Skilled-darkred"
  </p>
  
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=uno36&label=Profile%20views&color=00008B&style=flat" alt="Emmanuel" />
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=Peter-Dumbari&label=Profile%20views&color=00008B&style=flat" alt="Emmanuel" />
 
  
  ###  🛠 &nbsp;Languages | Technologies | Frameworks | Skills and Abilities...<hr>
@@ -56,25 +56,25 @@
  
 ### :link: &nbsp;Connect with me:
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-tofa-673b2516a/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](https://emmanuelutofa@gmail.com)
-[![Facebook](https://img.shields.io/badge/-Facebook-c13584?style=flat&labelColor=c13584&logo=facebook&logoColor=white)](https://www.facebook.com/emmanuel.tofa.5)
-[![CodePen](https://img.shields.io/badge/-CodePen-black?style=flat&logo=CodePen&logoColor=white)](https://codepen.io/uno36)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/emmanuelutofa/)
-[![Github](https://img.shields.io/badge/-Github-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://github.com/uno36)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tofauemmanuel)](https://twitter.com/tofauemmanuel)<hr>
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/peter-kinz-7aa419235/)/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](https://dummytwiz@gmail.com)
+[![Facebook](https://img.shields.io/badge/-Facebook-c13584?style=flat&labelColor=c13584&logo=facebook&logoColor=white)](https://www.facebook.com/lazkidypee)
+[![CodePen](https://img.shields.io/badge/-CodePen-black?style=flat&logo=CodePen&logoColor=white)](https:)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/peterdumbarry/)
+[![Github](https://img.shields.io/badge/-Github-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://github.com/Peter-Dumbari)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/peterdumbari)](https://twitter.com/peterdumbari)<hr>
 
 ### My GitHub Status | GitHub Data...
 
 <table><br>
   <p align="center">
-  <a href="https://github.com/JayantGoel001">
-    <img width="410" src="https://github-readme-stats.vercel.app/api?username=uno36&show_icons=true&theme=prussian" />
+  <a href="https://github.com/Peter-Dumbari">
+    <img width="410" src="http://github-readme-streak-stats.herokuapp.com?user=Peter-Dumbari&theme=highcontrast" />
   </a> <br>
-  <a href="https://github.com/JayantGoel001">
-  <img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=uno36&theme=prussian&hide_border=false"/>
+  <a href="https://github.com/Peter-Dumbari">
+  <img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=Peter-Dumbari&theme=prussian&hide_border=false"/>
   </a><br>
-   <img width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uno36&layout=compact&theme=gotham">
+   <img width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peter-Dumbari&layout=compact&theme=gotham">
 </p>
 </table>
 
