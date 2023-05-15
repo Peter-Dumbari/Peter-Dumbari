@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Coding Expetise-Skilled-darkred"
  </p>
  
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Peter-Dumbari&label=Profile%20views&color=00008B&style=flat" alt="Emmanuel" />
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=Peter-Dumbari&label=Profile%20views&color=00008B&style=flat" alt="Dumbari" />
 
  
  ###  🛠 &nbsp;Languages | Technologies | Frameworks | Skills and Abilities...<hr>
