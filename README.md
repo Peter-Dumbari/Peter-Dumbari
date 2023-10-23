@@ -74,12 +74,8 @@
 
 <table><br>
   <p align="center">
-  <a href="https://github.com/Peter-Dumbari">
-    <img width="410" src="http://github-readme-streak-stats.herokuapp.com?user=Peter-Dumbari&theme=highcontrast" />
-  </a> <br>
-  <a href="https://github.com/Peter-Dumbari">
-  <img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=Peter-Dumbari&theme=prussian&hide_border=false"/>
-  </a><br>
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Peter-Dumbari" alt="GitHub Streak" /></a> <br>
+
    <img width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peter-Dumbari&layout=compact&theme=gotham">
 </p>
 </table>
