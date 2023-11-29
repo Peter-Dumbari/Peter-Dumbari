@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-  <a href="https://github.com/Peter-Dumbari"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Peter+Dumbari;A+Skill+Fullstack+Developer;Also+known+as+LIFESOFT;I+specilized+in+building+Web+Apps;using+Javascript+HTML+SASS+Ruby;Redux+ReactJS;You+are+free+to+through+my+projects🤗"></a>
+  <a href="https://github.com/Peter-Dumbari"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Peter+Dumbari;A+Skill+Fullstack+Developer;Also+known+as+LIFESOFT;I+specilized+in+building+Web+Apps;using+Javascript+HTML+SASS+Ruby+Redux+ReactJS;You+are+free+to+go+through+my+projects🤗"></a>
 </p>
 ----------------------------------------------------------------------------------------------------------------------------
 - <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
