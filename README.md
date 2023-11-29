@@ -3,14 +3,14 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-  <a href="https://github.com/Peter-Dumbari"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Peter+Dumbari;A+Skill+Fullstack+Developer;Also+known+as+LIFESOFT;I+specilized+in+building+Web+Apps;using+Javascript+HTML+SASS+Ruby+Redux+ReactJS;You+are+free+to+go+through+my+projects🤗"></a>
+  <a href="https://github.com/Peter-Dumbari"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Peter+Dumbari;A+Skill+Fullstack+Developer;Also+known+as+LIFESOFT;I+specilized+in+building+Web+Apps;using+Javascript+HTML+SASS+Ruby+Redux+ReactJS;you+are+free+to+go+through+my+projects🤗"></a>
 </p>
 ----------------------------------------------------------------------------------------------------------------------------
 - <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
 - 🌱 I’m a coding and entrepreneurial enthusiast
 - 💞️ I’m looking to collaborate on diffrent programming languages to further up my skills
 - 📫 How to reach me check below  👇
-- 🔭 I’m currently working on **Python, HTML, CSS and JavaScript, and other different technologies including my technical interview preperations**
+- 🔭 I’m currently working on **Rails, HTML, CSS and JavaScript, and other different technologies including my technical interview preperations**
  - 🌱 I’m also learning **UI/UX design, front-end development in React,**
  - ✨ Fun fact: I love body building
  
